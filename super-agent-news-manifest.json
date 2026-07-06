@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "MSN",
+      "title": "Cisco to give all 90,000 employees personal AI agents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg?oc=5"
+    },
+    {
+      "source": "Android Authority",
+      "title": "I automated my day with ChatGPT Scheduled Tasks",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVHJoaUVFV0ZBU1dQZ3ZodTFJYmxxQnlLZjdLd3BIVXlEWGM4ZUNmU1VRV1JBV3VwVk5fMkZ2Qjk2VFRHRG8yYXRzblJnZnlwZ243VU5JZEZza3IzYWtDQzEyNnBteURvejU5UDl1SjdzUV85cGpEdWEwNVlENkE?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing the Gemini Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs ChatGPT|competitor_comparison|people comparing Super with ChatGPT|2026-07-06T10:55:17.355457+00:00') -> choice=comparison-lab. AIDA Check: Attention hero, Interest proof, Desire motion, Action CTA confirmed. Font Selection: Cabinet Grotesk. Hero Math Verification: clamp(44px\u201376px), max-width 1120px yields 2\u20133 lines. Bento Density Verification: compare-grid uses grid-auto-flow:dense. GSAP Motion Selection: card-stacking + hover-physics. Label Sweep & Button Check: primary black pill, secondary white pill, contrast verified.",
+  "generated_at": "2026-07-06T10:56:12.767976+00:00",
+  "headline": "Super vs ChatGPT: personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats. Previous comparison-page failures omitted visible buyer-guide and decision-matrix language even when the article was useful; that must never happen. The visible page must include the exact phrases Buyer guide and Decision matrix.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super and ChatGPT for people deciding between a general conversational assistant and a purpose\u2011built personal AI agent that can operate computers and reuse a computer\u2011use cache for repeated workflows."
+}
